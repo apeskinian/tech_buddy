@@ -188,6 +188,7 @@ h3 {
     margin: 0;
 }
 
+
 /* Chat room mobile styling */
 
 .conversation-list {
@@ -239,7 +240,6 @@ h3 {
 }
 
 
-
 /* Hide image on very small screens */
 @media (max-width: 480px) {
     .signup-login-image-section {
@@ -247,6 +247,7 @@ h3 {
     }
 }
 
+/* Chat room desktop styles */
 @media (min-width:1200px) {
 
     .recent-chat {
